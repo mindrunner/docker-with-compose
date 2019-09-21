@@ -1,5 +1,5 @@
 FROM docker:latest
-MAINTAINER Lukas Elsner <a-qube@lukaselsner.de>
+MAINTAINER Lukas Elsner <mail@lukaselsner.de>
 
 RUN apk -U update && apk -U add \
    bash \
